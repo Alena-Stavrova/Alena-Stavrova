@@ -3,7 +3,7 @@
 - I’d be happy to collaborate on projects as a junior software tester. I'm particularly interested in working in an agile team. 
 - My other interests include, but are not limited to: playing violin, weightlifting, cooking, learning German on Duolingo and MBTI memes. 
 
-[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/alenastavrova.png)](https://www.codeabbey.com/index/alenastavrova)
+[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/alenastavrova.png)](https://www.codeabbey.com/index/user_profile/alenastavrova)
 
 <!---
 Alena-Stavrova/Alena-Stavrova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
